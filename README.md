@@ -55,4 +55,6 @@ int main(){
           else
           cout<<n+1;}
 }
+![image](https://user-images.githubusercontent.com/84795217/151311456-e680523e-572d-4a4e-a61a-feeceaa80655.png)
+![image](https://user-images.githubusercontent.com/84795217/151311484-8f294087-34ae-4fef-99db-6a11ee047b33.png)
 
