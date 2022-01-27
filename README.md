@@ -24,6 +24,9 @@ geeksforgeeks.org/combinatorial-game-theory-set-3-grundy-numbers-numbers-and-mex
 https://www.youtube.com/watch?v=JDuVLyKn7Yw.
 https://www.youtube.com/watch?v=MboYbpE76js
  my code 
+ 
+ 
+ 
  #include <bits/stdc++.h>
 using namespace std;
 int main(){
