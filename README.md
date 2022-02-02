@@ -58,3 +58,24 @@ int main(){
 ![image](https://user-images.githubusercontent.com/84795217/151311456-e680523e-572d-4a4e-a61a-feeceaa80655.png)
 ![image](https://user-images.githubusercontent.com/84795217/151311484-8f294087-34ae-4fef-99db-6a11ee047b33.png)
 
+
+**binary search** in c++ for competitive programming
+https://www.geeksforgeeks.org/binary-search-functions-in-c-stl-binary_search-lower_bound-and-upper_bound/
+![image](https://user-images.githubusercontent.com/84795217/152174069-2627764a-66bf-430f-b87d-2e0d0fad5b9c.png)
+![image](https://user-images.githubusercontent.com/84795217/152174123-552e4b1f-b613-421c-903b-4cf309f41f64.png)
+
+https://www.codechef.com/wiki/tutorial-binary-search
+![image](https://user-images.githubusercontent.com/84795217/152174234-96af23b1-1df6-4b8f-8abc-65ce7c235464.png)
+https://en.cppreference.com/w/cpp/algorithm/binary_search
+![image](https://user-images.githubusercontent.com/84795217/152174336-f6b3d019-f6f2-42fe-b173-c7422d35f1f7.png)
+https://www.topcoder.com/thrive/articles/Binary+Search
+![image](https://user-images.githubusercontent.com/84795217/152174480-ca616b2e-69ab-4e7a-a9d7-d98328bdc01a.png)
+https://codeforces.com/blog/entry/9901
+![image](https://user-images.githubusercontent.com/84795217/152174645-33c5c257-06df-4dde-8b7f-79c0e4acea3c.png)
+
+
+
+
+
+
+
